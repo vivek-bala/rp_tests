@@ -1,0 +1,14 @@
+#time,name,uid,state,event,msg
+0.0000,agent_0.Heartbeat.0.child:,,,sync abs,1503399798.09:1503399798.08:1503399798.08:sys
+0.0012,agent_0.Heartbeat.0.child:MainThread,,,initialize,
+1.2335,agent_0.Heartbeat.0.child:MainThread,,,initialized,
+1.2336,agent_0.Heartbeat.0.child:MainThread,pilot.0000,,heartbeat,Listen! Listen! Listen to the heartbeat!
+11.2814,agent_0.Heartbeat.0.child:MainThread,pilot.0000,,heartbeat,Listen! Listen! Listen to the heartbeat!
+21.3275,agent_0.Heartbeat.0.child:MainThread,pilot.0000,,heartbeat,Listen! Listen! Listen to the heartbeat!
+21.3614,agent_0.Heartbeat.0.child:MainThread,pilot.0000,,ingest_cmd,mongodb to HeartbeatMonitor (Cancel_Pilot : None)
+24.3090,agent_0.Heartbeat.0.child:MainThread,,,closing,
+24.3090,agent_0.Heartbeat.0.child:MainThread,,,not_yet_finalized,
+24.3090,agent_0.Heartbeat.0.child:MainThread,,,finalize,
+24.3091,agent_0.Heartbeat.0.child:MainThread,,,finalized,
+24.3091,agent_0.Heartbeat.0.child:MainThread,,,stopped,
+24.3091,agent_0.Heartbeat.0.child:MainThread,,,QED,

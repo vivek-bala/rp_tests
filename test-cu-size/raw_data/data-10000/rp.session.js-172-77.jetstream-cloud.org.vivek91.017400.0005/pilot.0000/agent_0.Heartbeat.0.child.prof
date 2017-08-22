@@ -1,0 +1,73 @@
+#time,name,uid,state,event,msg
+0.0000,agent_0.Heartbeat.0.child:,,,sync abs,1503401465.83:1503401465.79:1503401465.8:ntp
+0.0390,agent_0.Heartbeat.0.child:MainThread,,,initialize,
+1.2739,agent_0.Heartbeat.0.child:MainThread,,,initialized,
+1.2740,agent_0.Heartbeat.0.child:MainThread,pilot.0000,,heartbeat,Listen! Listen! Listen to the heartbeat!
+11.3215,agent_0.Heartbeat.0.child:MainThread,pilot.0000,,heartbeat,Listen! Listen! Listen to the heartbeat!
+21.3819,agent_0.Heartbeat.0.child:MainThread,pilot.0000,,heartbeat,Listen! Listen! Listen to the heartbeat!
+31.4311,agent_0.Heartbeat.0.child:MainThread,pilot.0000,,heartbeat,Listen! Listen! Listen to the heartbeat!
+41.4786,agent_0.Heartbeat.0.child:MainThread,pilot.0000,,heartbeat,Listen! Listen! Listen to the heartbeat!
+51.5268,agent_0.Heartbeat.0.child:MainThread,pilot.0000,,heartbeat,Listen! Listen! Listen to the heartbeat!
+61.5740,agent_0.Heartbeat.0.child:MainThread,pilot.0000,,heartbeat,Listen! Listen! Listen to the heartbeat!
+71.6213,agent_0.Heartbeat.0.child:MainThread,pilot.0000,,heartbeat,Listen! Listen! Listen to the heartbeat!
+81.6684,agent_0.Heartbeat.0.child:MainThread,pilot.0000,,heartbeat,Listen! Listen! Listen to the heartbeat!
+91.7153,agent_0.Heartbeat.0.child:MainThread,pilot.0000,,heartbeat,Listen! Listen! Listen to the heartbeat!
+101.7634,agent_0.Heartbeat.0.child:MainThread,pilot.0000,,heartbeat,Listen! Listen! Listen to the heartbeat!
+111.8097,agent_0.Heartbeat.0.child:MainThread,pilot.0000,,heartbeat,Listen! Listen! Listen to the heartbeat!
+121.8567,agent_0.Heartbeat.0.child:MainThread,pilot.0000,,heartbeat,Listen! Listen! Listen to the heartbeat!
+131.9044,agent_0.Heartbeat.0.child:MainThread,pilot.0000,,heartbeat,Listen! Listen! Listen to the heartbeat!
+141.9518,agent_0.Heartbeat.0.child:MainThread,pilot.0000,,heartbeat,Listen! Listen! Listen to the heartbeat!
+152.0000,agent_0.Heartbeat.0.child:MainThread,pilot.0000,,heartbeat,Listen! Listen! Listen to the heartbeat!
+162.0467,agent_0.Heartbeat.0.child:MainThread,pilot.0000,,heartbeat,Listen! Listen! Listen to the heartbeat!
+172.0932,agent_0.Heartbeat.0.child:MainThread,pilot.0000,,heartbeat,Listen! Listen! Listen to the heartbeat!
+182.1420,agent_0.Heartbeat.0.child:MainThread,pilot.0000,,heartbeat,Listen! Listen! Listen to the heartbeat!
+192.1891,agent_0.Heartbeat.0.child:MainThread,pilot.0000,,heartbeat,Listen! Listen! Listen to the heartbeat!
+202.2375,agent_0.Heartbeat.0.child:MainThread,pilot.0000,,heartbeat,Listen! Listen! Listen to the heartbeat!
+212.2836,agent_0.Heartbeat.0.child:MainThread,pilot.0000,,heartbeat,Listen! Listen! Listen to the heartbeat!
+222.3314,agent_0.Heartbeat.0.child:MainThread,pilot.0000,,heartbeat,Listen! Listen! Listen to the heartbeat!
+232.3797,agent_0.Heartbeat.0.child:MainThread,pilot.0000,,heartbeat,Listen! Listen! Listen to the heartbeat!
+242.4270,agent_0.Heartbeat.0.child:MainThread,pilot.0000,,heartbeat,Listen! Listen! Listen to the heartbeat!
+252.4749,agent_0.Heartbeat.0.child:MainThread,pilot.0000,,heartbeat,Listen! Listen! Listen to the heartbeat!
+262.5218,agent_0.Heartbeat.0.child:MainThread,pilot.0000,,heartbeat,Listen! Listen! Listen to the heartbeat!
+272.5684,agent_0.Heartbeat.0.child:MainThread,pilot.0000,,heartbeat,Listen! Listen! Listen to the heartbeat!
+282.6164,agent_0.Heartbeat.0.child:MainThread,pilot.0000,,heartbeat,Listen! Listen! Listen to the heartbeat!
+292.6634,agent_0.Heartbeat.0.child:MainThread,pilot.0000,,heartbeat,Listen! Listen! Listen to the heartbeat!
+302.7107,agent_0.Heartbeat.0.child:MainThread,pilot.0000,,heartbeat,Listen! Listen! Listen to the heartbeat!
+312.7579,agent_0.Heartbeat.0.child:MainThread,pilot.0000,,heartbeat,Listen! Listen! Listen to the heartbeat!
+322.8054,agent_0.Heartbeat.0.child:MainThread,pilot.0000,,heartbeat,Listen! Listen! Listen to the heartbeat!
+332.8528,agent_0.Heartbeat.0.child:MainThread,pilot.0000,,heartbeat,Listen! Listen! Listen to the heartbeat!
+342.9000,agent_0.Heartbeat.0.child:MainThread,pilot.0000,,heartbeat,Listen! Listen! Listen to the heartbeat!
+352.9473,agent_0.Heartbeat.0.child:MainThread,pilot.0000,,heartbeat,Listen! Listen! Listen to the heartbeat!
+362.9946,agent_0.Heartbeat.0.child:MainThread,pilot.0000,,heartbeat,Listen! Listen! Listen to the heartbeat!
+373.0418,agent_0.Heartbeat.0.child:MainThread,pilot.0000,,heartbeat,Listen! Listen! Listen to the heartbeat!
+383.0889,agent_0.Heartbeat.0.child:MainThread,pilot.0000,,heartbeat,Listen! Listen! Listen to the heartbeat!
+393.1364,agent_0.Heartbeat.0.child:MainThread,pilot.0000,,heartbeat,Listen! Listen! Listen to the heartbeat!
+403.1838,agent_0.Heartbeat.0.child:MainThread,pilot.0000,,heartbeat,Listen! Listen! Listen to the heartbeat!
+413.2311,agent_0.Heartbeat.0.child:MainThread,pilot.0000,,heartbeat,Listen! Listen! Listen to the heartbeat!
+423.2787,agent_0.Heartbeat.0.child:MainThread,pilot.0000,,heartbeat,Listen! Listen! Listen to the heartbeat!
+433.3260,agent_0.Heartbeat.0.child:MainThread,pilot.0000,,heartbeat,Listen! Listen! Listen to the heartbeat!
+443.3735,agent_0.Heartbeat.0.child:MainThread,pilot.0000,,heartbeat,Listen! Listen! Listen to the heartbeat!
+453.4209,agent_0.Heartbeat.0.child:MainThread,pilot.0000,,heartbeat,Listen! Listen! Listen to the heartbeat!
+463.4681,agent_0.Heartbeat.0.child:MainThread,pilot.0000,,heartbeat,Listen! Listen! Listen to the heartbeat!
+473.5155,agent_0.Heartbeat.0.child:MainThread,pilot.0000,,heartbeat,Listen! Listen! Listen to the heartbeat!
+483.5627,agent_0.Heartbeat.0.child:MainThread,pilot.0000,,heartbeat,Listen! Listen! Listen to the heartbeat!
+493.6099,agent_0.Heartbeat.0.child:MainThread,pilot.0000,,heartbeat,Listen! Listen! Listen to the heartbeat!
+503.6570,agent_0.Heartbeat.0.child:MainThread,pilot.0000,,heartbeat,Listen! Listen! Listen to the heartbeat!
+513.7044,agent_0.Heartbeat.0.child:MainThread,pilot.0000,,heartbeat,Listen! Listen! Listen to the heartbeat!
+523.7519,agent_0.Heartbeat.0.child:MainThread,pilot.0000,,heartbeat,Listen! Listen! Listen to the heartbeat!
+533.7992,agent_0.Heartbeat.0.child:MainThread,pilot.0000,,heartbeat,Listen! Listen! Listen to the heartbeat!
+543.8466,agent_0.Heartbeat.0.child:MainThread,pilot.0000,,heartbeat,Listen! Listen! Listen to the heartbeat!
+553.8938,agent_0.Heartbeat.0.child:MainThread,pilot.0000,,heartbeat,Listen! Listen! Listen to the heartbeat!
+563.9411,agent_0.Heartbeat.0.child:MainThread,pilot.0000,,heartbeat,Listen! Listen! Listen to the heartbeat!
+573.9887,agent_0.Heartbeat.0.child:MainThread,pilot.0000,,heartbeat,Listen! Listen! Listen to the heartbeat!
+584.0359,agent_0.Heartbeat.0.child:MainThread,pilot.0000,,heartbeat,Listen! Listen! Listen to the heartbeat!
+594.0836,agent_0.Heartbeat.0.child:MainThread,pilot.0000,,heartbeat,Listen! Listen! Listen to the heartbeat!
+604.1312,agent_0.Heartbeat.0.child:MainThread,pilot.0000,,heartbeat,Listen! Listen! Listen to the heartbeat!
+614.1786,agent_0.Heartbeat.0.child:MainThread,pilot.0000,,heartbeat,Listen! Listen! Listen to the heartbeat!
+614.2123,agent_0.Heartbeat.0.child:MainThread,pilot.0000,,ingest_cmd,mongodb to HeartbeatMonitor (Cancel_Pilot : None)
+617.6017,agent_0.Heartbeat.0.child:MainThread,,,closing,
+617.6018,agent_0.Heartbeat.0.child:MainThread,,,not_yet_finalized,
+617.6018,agent_0.Heartbeat.0.child:MainThread,,,finalize,
+617.6019,agent_0.Heartbeat.0.child:MainThread,,,finalized,
+617.6019,agent_0.Heartbeat.0.child:MainThread,,,stopped,
+617.6019,agent_0.Heartbeat.0.child:MainThread,,,QED,

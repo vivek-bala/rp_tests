@@ -1,0 +1,45 @@
+#time,name,uid,state,event,msg
+0.0000,agent_0.AgentWorker.0.child:,,,sync abs,1503400820.6:1503400820.45:1503400820.52:ntp
+0.1504,agent_0.AgentWorker.0.child:MainThread,,,initialize,
+5.4164,agent_0.AgentWorker.0.child:MainThread,pilot.0000,,Agent setup done,
+6.4181,agent_0.AgentWorker.0.child:MainThread,,,initialized,
+7.1328,agent_0.AgentWorker.0.child:MainThread,pilot.0000,,get,bulk size: 16
+7.1328,agent_0.AgentWorker.0.child:MainThread,unit.000000,,get,bulk size: 16
+7.1339,agent_0.AgentWorker.0.child:MainThread,unit.000005,,get,bulk size: 16
+7.1339,agent_0.AgentWorker.0.child:MainThread,unit.000012,,get,bulk size: 16
+7.1339,agent_0.AgentWorker.0.child:MainThread,unit.000013,,get,bulk size: 16
+7.1339,agent_0.AgentWorker.0.child:MainThread,unit.000008,,get,bulk size: 16
+7.1339,agent_0.AgentWorker.0.child:MainThread,unit.000010,,get,bulk size: 16
+7.1339,agent_0.AgentWorker.0.child:MainThread,unit.000002,,get,bulk size: 16
+7.1339,agent_0.AgentWorker.0.child:MainThread,unit.000006,,get,bulk size: 16
+7.1339,agent_0.AgentWorker.0.child:MainThread,unit.000014,,get,bulk size: 16
+7.1339,agent_0.AgentWorker.0.child:MainThread,unit.000003,,get,bulk size: 16
+7.1340,agent_0.AgentWorker.0.child:MainThread,unit.000011,,get,bulk size: 16
+7.1340,agent_0.AgentWorker.0.child:MainThread,unit.000015,,get,bulk size: 16
+7.1340,agent_0.AgentWorker.0.child:MainThread,unit.000007,,get,bulk size: 16
+7.1340,agent_0.AgentWorker.0.child:MainThread,unit.000009,,get,bulk size: 16
+7.1340,agent_0.AgentWorker.0.child:MainThread,unit.000004,,get,bulk size: 16
+7.1340,agent_0.AgentWorker.0.child:MainThread,unit.000001,,get,bulk size: 16
+7.1385,agent_0.AgentWorker.0.child:MainThread,unit.000000,AgentStagingInputPending,put,queue.agent_staging_input_queue.input
+7.1432,agent_0.AgentWorker.0.child:MainThread,unit.000005,AgentStagingInputPending,put,queue.agent_staging_input_queue.input
+7.1471,agent_0.AgentWorker.0.child:MainThread,unit.000012,AgentStagingInputPending,put,queue.agent_staging_input_queue.input
+7.1510,agent_0.AgentWorker.0.child:MainThread,unit.000013,AgentStagingInputPending,put,queue.agent_staging_input_queue.input
+7.1549,agent_0.AgentWorker.0.child:MainThread,unit.000008,AgentStagingInputPending,put,queue.agent_staging_input_queue.input
+7.1587,agent_0.AgentWorker.0.child:MainThread,unit.000010,AgentStagingInputPending,put,queue.agent_staging_input_queue.input
+7.1625,agent_0.AgentWorker.0.child:MainThread,unit.000002,AgentStagingInputPending,put,queue.agent_staging_input_queue.input
+7.1663,agent_0.AgentWorker.0.child:MainThread,unit.000006,AgentStagingInputPending,put,queue.agent_staging_input_queue.input
+7.1701,agent_0.AgentWorker.0.child:MainThread,unit.000014,AgentStagingInputPending,put,queue.agent_staging_input_queue.input
+7.1745,agent_0.AgentWorker.0.child:MainThread,unit.000003,AgentStagingInputPending,put,queue.agent_staging_input_queue.input
+7.1790,agent_0.AgentWorker.0.child:MainThread,unit.000011,AgentStagingInputPending,put,queue.agent_staging_input_queue.input
+7.1834,agent_0.AgentWorker.0.child:MainThread,unit.000015,AgentStagingInputPending,put,queue.agent_staging_input_queue.input
+7.1878,agent_0.AgentWorker.0.child:MainThread,unit.000007,AgentStagingInputPending,put,queue.agent_staging_input_queue.input
+7.1924,agent_0.AgentWorker.0.child:MainThread,unit.000009,AgentStagingInputPending,put,queue.agent_staging_input_queue.input
+7.1968,agent_0.AgentWorker.0.child:MainThread,unit.000004,AgentStagingInputPending,put,queue.agent_staging_input_queue.input
+7.2013,agent_0.AgentWorker.0.child:MainThread,unit.000001,AgentStagingInputPending,put,queue.agent_staging_input_queue.input
+84.1964,agent_0.AgentWorker.0.child:MainThread,,,closing,
+85.1977,agent_0.AgentWorker.0.child:MainThread,,,not_yet_finalized,
+85.1977,agent_0.AgentWorker.0.child:MainThread,,,finalize,
+85.1977,agent_0.AgentWorker.0.child:MainThread,pilot.0000,,stop,
+87.8634,agent_0.AgentWorker.0.child:MainThread,,,finalized,
+87.8634,agent_0.AgentWorker.0.child:MainThread,,,stopped,
+87.8634,agent_0.AgentWorker.0.child:MainThread,,,QED,

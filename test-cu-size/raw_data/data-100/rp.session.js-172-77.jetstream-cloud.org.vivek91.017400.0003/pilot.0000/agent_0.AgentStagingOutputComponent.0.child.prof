@@ -1,0 +1,170 @@
+#time,name,uid,state,event,msg
+0.0000,agent_0.AgentStagingOutputComponent.0.child:,,,sync abs,1503400572.75:1503400572.75:1503400572.75:sys
+0.0010,agent_0.AgentStagingOutputComponent.0.child:MainThread,,,initialize,
+2.0042,agent_0.AgentStagingOutputComponent.0.child:MainThread,,,initialized,
+4.9574,agent_0.AgentStagingOutputComponent.0.child:MainThread,unit.000005,AgentStagingOutputPending,get,queue.agent_staging_output_queue.output
+4.9579,agent_0.AgentStagingOutputComponent.0.child:MainThread,unit.000005,AgentStagingOutputPending,work start,
+4.9579,agent_0.AgentStagingOutputComponent.0.child:MainThread,unit.000005,AgentStagingOutput,advance,
+4.9586,agent_0.AgentStagingOutputComponent.0.child:MainThread,unit.000005,AgentStagingOutput,publish,
+4.4132,agent_0.AgentStagingOutputComponent.0.child:MainThread,unit.000005,,script,start_script
+4.4156,agent_0.AgentStagingOutputComponent.0.child:MainThread,unit.000005,,script,after_cd
+4.8500,agent_0.AgentStagingOutputComponent.0.child:MainThread,unit.000005,,script,after_exec
+4.9606,agent_0.AgentStagingOutputComponent.0.child:MainThread,unit.000005,PendingOutputStaging,advance,
+4.9611,agent_0.AgentStagingOutputComponent.0.child:MainThread,unit.000005,PendingOutputStaging,publish,
+4.9611,agent_0.AgentStagingOutputComponent.0.child:MainThread,unit.000005,AgentStagingOutputPending,work done ,
+4.9641,agent_0.AgentStagingOutputComponent.0.child:MainThread,unit.000014,AgentStagingOutputPending,get,queue.agent_staging_output_queue.output
+4.9641,agent_0.AgentStagingOutputComponent.0.child:MainThread,unit.000014,AgentStagingOutputPending,work start,
+4.9641,agent_0.AgentStagingOutputComponent.0.child:MainThread,unit.000014,AgentStagingOutput,advance,
+4.9646,agent_0.AgentStagingOutputComponent.0.child:MainThread,unit.000014,AgentStagingOutput,publish,
+4.4868,agent_0.AgentStagingOutputComponent.0.child:MainThread,unit.000014,,script,start_script
+4.4892,agent_0.AgentStagingOutputComponent.0.child:MainThread,unit.000014,,script,after_cd
+4.9303,agent_0.AgentStagingOutputComponent.0.child:MainThread,unit.000014,,script,after_exec
+4.9667,agent_0.AgentStagingOutputComponent.0.child:MainThread,unit.000014,PendingOutputStaging,advance,
+4.9672,agent_0.AgentStagingOutputComponent.0.child:MainThread,unit.000014,PendingOutputStaging,publish,
+4.9672,agent_0.AgentStagingOutputComponent.0.child:MainThread,unit.000014,AgentStagingOutputPending,work done ,
+4.9701,agent_0.AgentStagingOutputComponent.0.child:MainThread,unit.000010,AgentStagingOutputPending,get,queue.agent_staging_output_queue.output
+4.9701,agent_0.AgentStagingOutputComponent.0.child:MainThread,unit.000010,AgentStagingOutputPending,work start,
+4.9701,agent_0.AgentStagingOutputComponent.0.child:MainThread,unit.000010,AgentStagingOutput,advance,
+4.9706,agent_0.AgentStagingOutputComponent.0.child:MainThread,unit.000010,AgentStagingOutput,publish,
+4.4122,agent_0.AgentStagingOutputComponent.0.child:MainThread,unit.000010,,script,start_script
+4.4146,agent_0.AgentStagingOutputComponent.0.child:MainThread,unit.000010,,script,after_cd
+4.8572,agent_0.AgentStagingOutputComponent.0.child:MainThread,unit.000010,,script,after_exec
+4.9726,agent_0.AgentStagingOutputComponent.0.child:MainThread,unit.000010,PendingOutputStaging,advance,
+4.9732,agent_0.AgentStagingOutputComponent.0.child:MainThread,unit.000010,PendingOutputStaging,publish,
+4.9732,agent_0.AgentStagingOutputComponent.0.child:MainThread,unit.000010,AgentStagingOutputPending,work done ,
+5.1623,agent_0.AgentStagingOutputComponent.0.child:MainThread,unit.000000,AgentStagingOutputPending,get,queue.agent_staging_output_queue.output
+5.1623,agent_0.AgentStagingOutputComponent.0.child:MainThread,unit.000000,AgentStagingOutputPending,work start,
+5.1623,agent_0.AgentStagingOutputComponent.0.child:MainThread,unit.000000,AgentStagingOutput,advance,
+5.1628,agent_0.AgentStagingOutputComponent.0.child:MainThread,unit.000000,AgentStagingOutput,publish,
+4.6730,agent_0.AgentStagingOutputComponent.0.child:MainThread,unit.000000,,script,start_script
+4.6765,agent_0.AgentStagingOutputComponent.0.child:MainThread,unit.000000,,script,after_cd
+5.1063,agent_0.AgentStagingOutputComponent.0.child:MainThread,unit.000000,,script,after_exec
+5.1651,agent_0.AgentStagingOutputComponent.0.child:MainThread,unit.000000,PendingOutputStaging,advance,
+5.1656,agent_0.AgentStagingOutputComponent.0.child:MainThread,unit.000000,PendingOutputStaging,publish,
+5.1656,agent_0.AgentStagingOutputComponent.0.child:MainThread,unit.000000,AgentStagingOutputPending,work done ,
+5.3649,agent_0.AgentStagingOutputComponent.0.child:MainThread,unit.000002,AgentStagingOutputPending,get,queue.agent_staging_output_queue.output
+5.3649,agent_0.AgentStagingOutputComponent.0.child:MainThread,unit.000002,AgentStagingOutputPending,work start,
+5.3650,agent_0.AgentStagingOutputComponent.0.child:MainThread,unit.000002,AgentStagingOutput,advance,
+5.3655,agent_0.AgentStagingOutputComponent.0.child:MainThread,unit.000002,AgentStagingOutput,publish,
+4.8702,agent_0.AgentStagingOutputComponent.0.child:MainThread,unit.000002,,script,start_script
+4.8726,agent_0.AgentStagingOutputComponent.0.child:MainThread,unit.000002,,script,after_cd
+5.3307,agent_0.AgentStagingOutputComponent.0.child:MainThread,unit.000002,,script,after_exec
+5.3675,agent_0.AgentStagingOutputComponent.0.child:MainThread,unit.000002,PendingOutputStaging,advance,
+5.3680,agent_0.AgentStagingOutputComponent.0.child:MainThread,unit.000002,PendingOutputStaging,publish,
+5.3680,agent_0.AgentStagingOutputComponent.0.child:MainThread,unit.000002,AgentStagingOutputPending,work done ,
+5.5678,agent_0.AgentStagingOutputComponent.0.child:MainThread,unit.000011,AgentStagingOutputPending,get,queue.agent_staging_output_queue.output
+5.5678,agent_0.AgentStagingOutputComponent.0.child:MainThread,unit.000011,AgentStagingOutputPending,work start,
+5.5679,agent_0.AgentStagingOutputComponent.0.child:MainThread,unit.000011,AgentStagingOutput,advance,
+5.5684,agent_0.AgentStagingOutputComponent.0.child:MainThread,unit.000011,AgentStagingOutput,publish,
+5.0314,agent_0.AgentStagingOutputComponent.0.child:MainThread,unit.000011,,script,start_script
+5.0337,agent_0.AgentStagingOutputComponent.0.child:MainThread,unit.000011,,script,after_cd
+5.4678,agent_0.AgentStagingOutputComponent.0.child:MainThread,unit.000011,,script,after_exec
+5.5760,agent_0.AgentStagingOutputComponent.0.child:MainThread,unit.000011,PendingOutputStaging,advance,
+5.5766,agent_0.AgentStagingOutputComponent.0.child:MainThread,unit.000011,PendingOutputStaging,publish,
+5.5766,agent_0.AgentStagingOutputComponent.0.child:MainThread,unit.000011,AgentStagingOutputPending,work done ,
+5.6702,agent_0.AgentStagingOutputComponent.0.child:MainThread,unit.000006,AgentStagingOutputPending,get,queue.agent_staging_output_queue.output
+5.6703,agent_0.AgentStagingOutputComponent.0.child:MainThread,unit.000006,AgentStagingOutputPending,work start,
+5.6703,agent_0.AgentStagingOutputComponent.0.child:MainThread,unit.000006,AgentStagingOutput,advance,
+5.6708,agent_0.AgentStagingOutputComponent.0.child:MainThread,unit.000006,AgentStagingOutput,publish,
+5.2108,agent_0.AgentStagingOutputComponent.0.child:MainThread,unit.000006,,script,start_script
+5.2135,agent_0.AgentStagingOutputComponent.0.child:MainThread,unit.000006,,script,after_cd
+5.6294,agent_0.AgentStagingOutputComponent.0.child:MainThread,unit.000006,,script,after_exec
+5.6729,agent_0.AgentStagingOutputComponent.0.child:MainThread,unit.000006,PendingOutputStaging,advance,
+5.6734,agent_0.AgentStagingOutputComponent.0.child:MainThread,unit.000006,PendingOutputStaging,publish,
+5.6734,agent_0.AgentStagingOutputComponent.0.child:MainThread,unit.000006,AgentStagingOutputPending,work done ,
+5.8729,agent_0.AgentStagingOutputComponent.0.child:MainThread,unit.000007,AgentStagingOutputPending,get,queue.agent_staging_output_queue.output
+5.8729,agent_0.AgentStagingOutputComponent.0.child:MainThread,unit.000007,AgentStagingOutputPending,work start,
+5.8730,agent_0.AgentStagingOutputComponent.0.child:MainThread,unit.000007,AgentStagingOutput,advance,
+5.8735,agent_0.AgentStagingOutputComponent.0.child:MainThread,unit.000007,AgentStagingOutput,publish,
+5.3836,agent_0.AgentStagingOutputComponent.0.child:MainThread,unit.000007,,script,start_script
+5.3862,agent_0.AgentStagingOutputComponent.0.child:MainThread,unit.000007,,script,after_cd
+5.8209,agent_0.AgentStagingOutputComponent.0.child:MainThread,unit.000007,,script,after_exec
+5.8755,agent_0.AgentStagingOutputComponent.0.child:MainThread,unit.000007,PendingOutputStaging,advance,
+5.8760,agent_0.AgentStagingOutputComponent.0.child:MainThread,unit.000007,PendingOutputStaging,publish,
+5.8761,agent_0.AgentStagingOutputComponent.0.child:MainThread,unit.000007,AgentStagingOutputPending,work done ,
+6.0759,agent_0.AgentStagingOutputComponent.0.child:MainThread,unit.000015,AgentStagingOutputPending,get,queue.agent_staging_output_queue.output
+6.0759,agent_0.AgentStagingOutputComponent.0.child:MainThread,unit.000015,AgentStagingOutputPending,work start,
+6.0759,agent_0.AgentStagingOutputComponent.0.child:MainThread,unit.000015,AgentStagingOutput,advance,
+6.0764,agent_0.AgentStagingOutputComponent.0.child:MainThread,unit.000015,AgentStagingOutput,publish,
+5.5768,agent_0.AgentStagingOutputComponent.0.child:MainThread,unit.000015,,script,start_script
+5.5794,agent_0.AgentStagingOutputComponent.0.child:MainThread,unit.000015,,script,after_cd
+6.0070,agent_0.AgentStagingOutputComponent.0.child:MainThread,unit.000015,,script,after_exec
+6.0784,agent_0.AgentStagingOutputComponent.0.child:MainThread,unit.000015,PendingOutputStaging,advance,
+6.0789,agent_0.AgentStagingOutputComponent.0.child:MainThread,unit.000015,PendingOutputStaging,publish,
+6.0789,agent_0.AgentStagingOutputComponent.0.child:MainThread,unit.000015,AgentStagingOutputPending,work done ,
+6.2811,agent_0.AgentStagingOutputComponent.0.child:MainThread,unit.000003,AgentStagingOutputPending,get,queue.agent_staging_output_queue.output
+6.2811,agent_0.AgentStagingOutputComponent.0.child:MainThread,unit.000003,AgentStagingOutputPending,work start,
+6.2811,agent_0.AgentStagingOutputComponent.0.child:MainThread,unit.000003,AgentStagingOutput,advance,
+6.2816,agent_0.AgentStagingOutputComponent.0.child:MainThread,unit.000003,AgentStagingOutput,publish,
+5.7649,agent_0.AgentStagingOutputComponent.0.child:MainThread,unit.000003,,script,start_script
+5.7672,agent_0.AgentStagingOutputComponent.0.child:MainThread,unit.000003,,script,after_cd
+6.2001,agent_0.AgentStagingOutputComponent.0.child:MainThread,unit.000003,,script,after_exec
+6.2841,agent_0.AgentStagingOutputComponent.0.child:MainThread,unit.000003,PendingOutputStaging,advance,
+6.2847,agent_0.AgentStagingOutputComponent.0.child:MainThread,unit.000003,PendingOutputStaging,publish,
+6.2847,agent_0.AgentStagingOutputComponent.0.child:MainThread,unit.000003,AgentStagingOutputPending,work done ,
+6.3836,agent_0.AgentStagingOutputComponent.0.child:MainThread,unit.000009,AgentStagingOutputPending,get,queue.agent_staging_output_queue.output
+6.3836,agent_0.AgentStagingOutputComponent.0.child:MainThread,unit.000009,AgentStagingOutputPending,work start,
+6.3836,agent_0.AgentStagingOutputComponent.0.child:MainThread,unit.000009,AgentStagingOutput,advance,
+6.3842,agent_0.AgentStagingOutputComponent.0.child:MainThread,unit.000009,AgentStagingOutput,publish,
+5.9146,agent_0.AgentStagingOutputComponent.0.child:MainThread,unit.000009,,script,start_script
+5.9172,agent_0.AgentStagingOutputComponent.0.child:MainThread,unit.000009,,script,after_cd
+6.3482,agent_0.AgentStagingOutputComponent.0.child:MainThread,unit.000009,,script,after_exec
+6.3868,agent_0.AgentStagingOutputComponent.0.child:MainThread,unit.000009,PendingOutputStaging,advance,
+6.3874,agent_0.AgentStagingOutputComponent.0.child:MainThread,unit.000009,PendingOutputStaging,publish,
+6.3874,agent_0.AgentStagingOutputComponent.0.child:MainThread,unit.000009,AgentStagingOutputPending,work done ,
+6.5860,agent_0.AgentStagingOutputComponent.0.child:MainThread,unit.000013,AgentStagingOutputPending,get,queue.agent_staging_output_queue.output
+6.5861,agent_0.AgentStagingOutputComponent.0.child:MainThread,unit.000013,AgentStagingOutputPending,work start,
+6.5861,agent_0.AgentStagingOutputComponent.0.child:MainThread,unit.000013,AgentStagingOutput,advance,
+6.5866,agent_0.AgentStagingOutputComponent.0.child:MainThread,unit.000013,AgentStagingOutput,publish,
+6.0854,agent_0.AgentStagingOutputComponent.0.child:MainThread,unit.000013,,script,start_script
+6.0882,agent_0.AgentStagingOutputComponent.0.child:MainThread,unit.000013,,script,after_cd
+6.5332,agent_0.AgentStagingOutputComponent.0.child:MainThread,unit.000013,,script,after_exec
+6.5891,agent_0.AgentStagingOutputComponent.0.child:MainThread,unit.000013,PendingOutputStaging,advance,
+6.5896,agent_0.AgentStagingOutputComponent.0.child:MainThread,unit.000013,PendingOutputStaging,publish,
+6.5896,agent_0.AgentStagingOutputComponent.0.child:MainThread,unit.000013,AgentStagingOutputPending,work done ,
+6.7885,agent_0.AgentStagingOutputComponent.0.child:MainThread,unit.000008,AgentStagingOutputPending,get,queue.agent_staging_output_queue.output
+6.7885,agent_0.AgentStagingOutputComponent.0.child:MainThread,unit.000008,AgentStagingOutputPending,work start,
+6.7885,agent_0.AgentStagingOutputComponent.0.child:MainThread,unit.000008,AgentStagingOutput,advance,
+6.7891,agent_0.AgentStagingOutputComponent.0.child:MainThread,unit.000008,AgentStagingOutput,publish,
+6.2853,agent_0.AgentStagingOutputComponent.0.child:MainThread,unit.000008,,script,start_script
+6.2883,agent_0.AgentStagingOutputComponent.0.child:MainThread,unit.000008,,script,after_cd
+6.7135,agent_0.AgentStagingOutputComponent.0.child:MainThread,unit.000008,,script,after_exec
+6.7917,agent_0.AgentStagingOutputComponent.0.child:MainThread,unit.000008,PendingOutputStaging,advance,
+6.7922,agent_0.AgentStagingOutputComponent.0.child:MainThread,unit.000008,PendingOutputStaging,publish,
+6.7922,agent_0.AgentStagingOutputComponent.0.child:MainThread,unit.000008,AgentStagingOutputPending,work done ,
+6.8906,agent_0.AgentStagingOutputComponent.0.child:MainThread,unit.000004,AgentStagingOutputPending,get,queue.agent_staging_output_queue.output
+6.8906,agent_0.AgentStagingOutputComponent.0.child:MainThread,unit.000004,AgentStagingOutputPending,work start,
+6.8906,agent_0.AgentStagingOutputComponent.0.child:MainThread,unit.000004,AgentStagingOutput,advance,
+6.8912,agent_0.AgentStagingOutputComponent.0.child:MainThread,unit.000004,AgentStagingOutput,publish,
+6.4501,agent_0.AgentStagingOutputComponent.0.child:MainThread,unit.000004,,script,start_script
+6.4531,agent_0.AgentStagingOutputComponent.0.child:MainThread,unit.000004,,script,after_cd
+6.8635,agent_0.AgentStagingOutputComponent.0.child:MainThread,unit.000004,,script,after_exec
+6.8937,agent_0.AgentStagingOutputComponent.0.child:MainThread,unit.000004,PendingOutputStaging,advance,
+6.8943,agent_0.AgentStagingOutputComponent.0.child:MainThread,unit.000004,PendingOutputStaging,publish,
+6.8943,agent_0.AgentStagingOutputComponent.0.child:MainThread,unit.000004,AgentStagingOutputPending,work done ,
+7.0927,agent_0.AgentStagingOutputComponent.0.child:MainThread,unit.000012,AgentStagingOutputPending,get,queue.agent_staging_output_queue.output
+7.0927,agent_0.AgentStagingOutputComponent.0.child:MainThread,unit.000012,AgentStagingOutputPending,work start,
+7.0928,agent_0.AgentStagingOutputComponent.0.child:MainThread,unit.000012,AgentStagingOutput,advance,
+7.0933,agent_0.AgentStagingOutputComponent.0.child:MainThread,unit.000012,AgentStagingOutput,publish,
+6.5882,agent_0.AgentStagingOutputComponent.0.child:MainThread,unit.000012,,script,start_script
+6.5911,agent_0.AgentStagingOutputComponent.0.child:MainThread,unit.000012,,script,after_cd
+6.9901,agent_0.AgentStagingOutputComponent.0.child:MainThread,unit.000012,,script,after_exec
+7.0954,agent_0.AgentStagingOutputComponent.0.child:MainThread,unit.000012,PendingOutputStaging,advance,
+7.0960,agent_0.AgentStagingOutputComponent.0.child:MainThread,unit.000012,PendingOutputStaging,publish,
+7.0960,agent_0.AgentStagingOutputComponent.0.child:MainThread,unit.000012,AgentStagingOutputPending,work done ,
+7.1942,agent_0.AgentStagingOutputComponent.0.child:MainThread,unit.000001,AgentStagingOutputPending,get,queue.agent_staging_output_queue.output
+7.1942,agent_0.AgentStagingOutputComponent.0.child:MainThread,unit.000001,AgentStagingOutputPending,work start,
+7.1942,agent_0.AgentStagingOutputComponent.0.child:MainThread,unit.000001,AgentStagingOutput,advance,
+7.1947,agent_0.AgentStagingOutputComponent.0.child:MainThread,unit.000001,AgentStagingOutput,publish,
+6.7368,agent_0.AgentStagingOutputComponent.0.child:MainThread,unit.000001,,script,start_script
+6.7393,agent_0.AgentStagingOutputComponent.0.child:MainThread,unit.000001,,script,after_cd
+7.1267,agent_0.AgentStagingOutputComponent.0.child:MainThread,unit.000001,,script,after_exec
+7.1969,agent_0.AgentStagingOutputComponent.0.child:MainThread,unit.000001,PendingOutputStaging,advance,
+7.1974,agent_0.AgentStagingOutputComponent.0.child:MainThread,unit.000001,PendingOutputStaging,publish,
+7.1974,agent_0.AgentStagingOutputComponent.0.child:MainThread,unit.000001,AgentStagingOutputPending,work done ,
+32.3098,agent_0.AgentStagingOutputComponent.0.child:MainThread,,,closing,
+32.3099,agent_0.AgentStagingOutputComponent.0.child:MainThread,,,not_yet_finalized,
+32.3099,agent_0.AgentStagingOutputComponent.0.child:MainThread,,,finalize,
+32.3099,agent_0.AgentStagingOutputComponent.0.child:MainThread,,,finalized,
+32.3100,agent_0.AgentStagingOutputComponent.0.child:MainThread,,,stopped,
+32.3100,agent_0.AgentStagingOutputComponent.0.child:MainThread,,,QED,
